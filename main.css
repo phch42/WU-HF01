@@ -1,0 +1,13 @@
+:root{
+    --white: #ffffff;
+    --black: #000000;
+}
+
+body{
+    width: 100%;
+    background-color: var(--white);
+}
+
+h1, h2, h3, h4{
+    font-family: sans-serif;
+}
